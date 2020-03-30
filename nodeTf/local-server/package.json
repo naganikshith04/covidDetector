@@ -1,0 +1,8 @@
+{
+    "name": "nodetf",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "latest",
+        "requirejs": "^2.3.6"
+    }
+}
